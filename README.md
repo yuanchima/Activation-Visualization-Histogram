@@ -116,6 +116,7 @@ Only the histogram and visualized activations of the last convolutional layer (3
 ## Author
 
 Shao-Hua Sun / [@shaohua0116](https://shaohua0116.github.io/) @ [Joseph Lim's research lab](https://github.com/gitlimlab) @ USC
+yuanchi ma / [@yuanchima](https://yuanchima.github.os/) @ [yuanchima's research lab](https://github.com/yuanchima) @ USC
 
 ## Acknowledgement
 The code *monitor.py* was written by [@wookayin](https://github.com/wookayin/)
